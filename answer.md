@@ -9,7 +9,6 @@ Social Profile
  1)https://github.com/
 
  2)www.linkedin.com/in/arya-nm
-
  The real stuff.
 
  1)PHP
