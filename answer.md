@@ -10,11 +10,9 @@ Social Profile
 
  2)www.linkedin.com/in/arya-nm
 
-
  The real stuff.
 
  1)PHP
-
 
 2) <?php
 
